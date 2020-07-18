@@ -17,8 +17,8 @@
 * [Анализ метода Куттера Джордана Боссена на устойчивость к атаке](docs/kjb-analysis.md)
 
 Проект написан на языке Java с использованием JavaFX.  
-OpenJDK 14.0.2
-JavaFX SDK 11.0.2
+OpenJDK 14.0.2  
+JavaFX SDK 11.0.2  
 
 ![Main Screen](img/main-screen.png)
 ![Encoded Msg](img/encoded-msg.png)
