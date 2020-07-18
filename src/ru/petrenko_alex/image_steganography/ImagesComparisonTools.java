@@ -1,4 +1,4 @@
-package ru.petrenko_alex.steganography;
+package ru.petrenko_alex.image_steganography;
 
 
 import java.awt.image.BufferedImage;

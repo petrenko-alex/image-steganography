@@ -1,4 +1,4 @@
-package ru.petrenko_alex.steganography;
+package ru.petrenko_alex.image_steganography;
 
 
 import ru.petrenko_alex.BitHelper;

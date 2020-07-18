@@ -14,9 +14,9 @@ import javafx.scene.image.ImageView;
 import javafx.scene.image.WritableImage;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
-import ru.petrenko_alex.steganography.ImagesComparisonTools;
-import ru.petrenko_alex.steganography.SteganographyAlgorithm;
-import ru.petrenko_alex.steganography.SteganographyAlgorithmFactory;
+import ru.petrenko_alex.image_steganography.ImagesComparisonTools;
+import ru.petrenko_alex.image_steganography.SteganographyAlgorithm;
+import ru.petrenko_alex.image_steganography.SteganographyAlgorithmFactory;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;

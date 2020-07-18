@@ -1,4 +1,4 @@
-package ru.petrenko_alex.steganography;
+package ru.petrenko_alex.image_steganography;
 
 
 import java.lang.reflect.Constructor;
@@ -27,6 +27,6 @@ public class SteganographyAlgorithmFactory {
         return ( SteganographyAlgorithm ) algoObject;
     }
 
-    /* The path to steganography algorithms classes */
-    private final static String PATH_TO_ALGORITHMS_PACKAGE = "ru.petrenko_alex.steganography.";
+    /* The path to image_steganography algorithms classes */
+    private final static String PATH_TO_ALGORITHMS_PACKAGE = "ru.petrenko_alex.image_steganography.";
 }
