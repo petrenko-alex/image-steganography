@@ -13,4 +13,4 @@
 | -60% | This is a test text for attack analyzing. | This is a test text for attack analyzing. |
 | -90% | This is a test text for attack analyzing. | This is a test text for attack analyzing. |
 
-Результат: метод Куттера Джордана Боссена устойчив к атаке методом изменения яркости. Закодированный текст не потерялся при уменьшении яркости.
+**Результат: метод Куттера Джордана Боссена устойчив к атаке методом изменения яркости. Закодированный текст не потерялся при уменьшении яркости.**
